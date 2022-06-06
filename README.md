@@ -1,30 +1,3 @@
 # myEcommerceAPP
 
-![Screenshot_20220606-113312](https://user-images.githubusercontent.com/65352159/172144934-bd3edad6-0fc7-436a-97bc-70696517f9b8.jpg)
-
-
-![Screenshot_20220606-113253](https://user-images.githubusercontent.com/65352159/172145025-57c99c30-3819-47c4-8211-d50cc2f52c17.jpg)
-
-
-![Screenshot_20220606-113300](https://user-images.githubusercontent.com/65352159/172145062-37fa46b0-ec3d-4beb-a53f-19dba49c57ba.jpg)
-
-
-![Screenshot_20220604-174702](https://user-images.githubusercontent.com/65352159/172142943-2582f248-4285-4443-9407-dddd16951cd9.jpg) 
-
-
-![Screenshot_20220604-174451](https://user-images.githubusercontent.com/65352159/172143000-ccb6a676-5648-434e-b176-07745ef82f69.jpg)
-
-
-![Screenshot_20220604-174750](https://user-images.githubusercontent.com/65352159/172143033-9da7a927-d193-4bcf-8533-b0e51b0ce2da.jpg)
-
-
-![Screenshot_20220604-174832](https://user-images.githubusercontent.com/65352159/172143062-353150f8-afec-4750-9233-f46d0d3a32ce.jpg)
-
-
-![Screenshot_20220604-174650](https://user-images.githubusercontent.com/65352159/172143086-30ce750f-d0b7-48fc-8cc0-f0f2bf9c13a7.jpg)
-
-
-![Screenshot_20220604-174457](https://user-images.githubusercontent.com/65352159/172143111-de7be0a9-4c4d-4788-a16b-50072286d8dd.jpg)
-
-
-![Screenshot_20220604-174445](https://user-images.githubusercontent.com/65352159/172143158-72d72cca-0d72-46ed-a4c0-47ca44e7c9af.jpg)
+![Screenshot_20220606-113253](https://user-images.githubusercontent.com/65352159/172177932-78271e53-d251-49be-8cc4-9cf7b04f7071.jpg)  ![Screenshot_20220606-113300](https://user-images.githubusercontent.com/65352159/172178015-90a7110d-2100-4a45-9fe7-6eaa9632342d.jpg)    ![Screenshot_20220606-113312](https://user-images.githubusercontent.com/65352159/172178060-018c944c-959a-4b29-9ba5-e44039e6df15.jpg)  ![Screenshot_20220604-174702](https://user-images.githubusercontent.com/65352159/172178096-fb5df11e-9a8f-4beb-92b5-2a0072ab0b07.jpg)  ![Screenshot_20220604-174750](https://user-images.githubusercontent.com/65352159/172178242-cbd3c6dd-83ad-4cea-bd91-d7d96d38258f.jpg)  ![Screenshot_20220604-174832](https://user-images.githubusercontent.com/65352159/172178240-b87dd186-0f47-4841-b904-b1ac6508fb3f.jpg)  ![Screenshot_20220604-174451](https://user-images.githubusercontent.com/65352159/172178241-1e7622f9-cfd3-4bc0-9bd1-8f8ba9c9cc9b.jpg)  ![Screenshot_20220604-174445 (1)](https://user-images.githubusercontent.com/65352159/172178283-cb2fd73d-d094-4895-82fa-be5807a3f1b8.jpg)  
